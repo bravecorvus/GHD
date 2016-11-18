@@ -26,11 +26,6 @@ start:  ! print prompt, as detailed in next five instructions
         PUSH    _STDOUT         ! on standard output
         PUSH    _WRITE
         SYS
-        ADD     SP,8            ! clean up stack
-        PUSH    2               ! read two characters...
-        PUSH    buff            ! into buff...
-        PUSH    _STDIN          ! from standard input
-        PUSH    _READ
         SYS
         ADD     SP,8            ! clean up stack
         PUSH    2               ! then print those characters
@@ -38,11 +33,6 @@ start:  ! print prompt, as detailed in next five instructions
         PUSH    _STDOUT         ! on standard output
         PUSH    _WRITE
         SYS
-        ADD     SP,8            ! clean up stack
-        PUSH    2               ! read two characters...
-        PUSH    buff            ! into buff...
-        PUSH    _STDIN          ! from standard input
-        PUSH    _READ
         SYS
         ADD     SP,8            ! clean up stack
         PUSH    2               ! then print those characters
@@ -50,11 +40,6 @@ start:  ! print prompt, as detailed in next five instructions
         PUSH    _STDOUT         ! on standard output
         PUSH    _WRITE
         SYS
-        ADD     SP,8            ! clean up stack
-        PUSH    2               ! read two characters...
-        PUSH    buff            ! into buff...
-        PUSH    _STDIN          ! from standard input
-        PUSH    _READ
         SYS
         ADD     SP,8            ! clean up stack
         PUSH    2               ! then print those characters
@@ -62,11 +47,6 @@ start:  ! print prompt, as detailed in next five instructions
         PUSH    _STDOUT         ! on standard output
         PUSH    _WRITE
         SYS
-        ADD     SP,8            ! clean up stack
-        PUSH    2               ! read two characters...
-        PUSH    buff            ! into buff...
-        PUSH    _STDIN          ! from standard input
-        PUSH    _READ
         SYS
         ADD     SP,8            ! clean up stack
         PUSH    2               ! then print those characters
@@ -83,5 +63,5 @@ start:  ! print prompt, as detailed in next five instructions
 .SECT .DATA                     
 prompt:                         
 .ASCII  "Type one character, then press ENTER:  "         
-buff:   .SPACE	2
+buff:   .SPACE  2
 .SECT .BSS
