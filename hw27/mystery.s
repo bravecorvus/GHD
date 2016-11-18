@@ -3,7 +3,7 @@
 	_STDOUT = 1
 .SECT	.TEXT
 start:
-	MOVCX,de-hw
+	MOV	CX,de-hw
 1:	PUSH	CS
 	PUSH	hw
 	PUSH	_STDOUT
