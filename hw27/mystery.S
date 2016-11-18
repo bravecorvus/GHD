@@ -4,7 +4,7 @@
 .SECT .TEXT
 start:
 	MOV	CX,de-hw
-1:	PUSH	CS
+1:	PUSH	CX
 	PUSH	hw
 	PUSH	_STDOUT
 	PUSH	_WRITE
