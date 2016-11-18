@@ -1,0 +1,268 @@
+Script started on Mon Sep 12 11:36:06 2016
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mWelcome to fish, the friendly interactive shell
+Type [32mhelp[30m(B[m for instructions on how to use fish
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K.[38;2;0;95;215m.[30m(B[m[38;2;85;85;85m/sqrts2[30m(B[m[38;2;0;95;215m/[38;2;85;85;85msqrts2[30m(B[m[38;2;0;95;215ms[38;2;85;85;85mqrts2[30m(B[m[31m[1m./s(B[m[38;2;85;85;85mqrts2[30m(B[m[31m[1mq(B[m[38;2;85;85;85mrts2[30m(B[m[31m[1mr(B[m[38;2;85;85;85mts2[30m(B[m[31m[1mt(B[m[38;2;85;85;85ms2[30m(B[m[31m[1ms(B[m[38;2;85;85;85m2[30m(B[m[38;2;0;95;215m./sqrts[38;2;85;85;85m2[30m(B[m[K
+[30m(B[m]0;./sqrts  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn	sqrt(n)
+----------------
+0	0
+1	1
+2	1.41421
+3	1.73205
+4	2
+5	2.23607
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ke[31m[1me(B[m[38;2;85;85;85mxit[30m(B[m[31m[1mx(B[m[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mex[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mi[38;2;85;85;85mt[30m(B[m[31m[1mexi(B[m[38;2;85;85;85mt[30m(B[m[31m[1mt(B[m[38;2;0;95;215mexit[30m(B[m
+[30m(B[m]0;exit  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m
+[30m(B[m
+Script done on Mon Sep 12 11:36:22 2016
+Script started on Mon Sep 12 11:36:48 2016
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mWelcome to fish, the friendly interactive shell
+Type [32mhelp[30m(B[m for instructions on how to use fish
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ks[31m[1ms(B[m[38;2;85;85;85mcript hw2D.o…[13D[30m(B[m[31m[1mu(B[m[K[38;2;0;95;215msu[30m(B[m[38;2;85;85;85mbl sqrts.cpp[12D[30m(B[m[38;2;0;95;215mb[38;2;85;85;85ml sqrts.cpp[11D[30m(B[m[31m[1msub(B[m[38;2;85;85;85ml sqrts.cpp[11D[30m(B[m[31m[1ml(B[m[38;2;85;85;85m sqrts.cpp[10D[30m(B[m[38;2;0;95;215msubl[38;2;85;85;85m sqrts.cpp[10D[30m(B[m[38;2;0;95;215m [38;2;85;85;85msqrts.cpp[9D[30m(B[m [38;2;85;85;85msqrts.cpp[9D[30m(B[ms[38;2;85;85;85mqrts.cpp[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24mqrts.cpp[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts.cpp[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts.cpp[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms.cpp[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24m.cpp[30m(B[m[38;2;0;175;255m[4m.[38;2;85;85;85m[24mcpp[30m(B[m[38;2;0;175;255m[4mc[38;2;85;85;85m[24mpp[30m(B[m[38;2;0;175;255m[4mp[38;2;85;85;85m[24mp[30m(B[m[K
+[30m(B[m]0;subl  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kg[31m[1mg(B[m[38;2;85;85;85mcc -o sqrts2…[13D[30m(B[m[31m[1mc(B[m[38;2;85;85;85mc -o sqrts2…[12D[30m(B[m[31m[1mc(B[m[38;2;85;85;85m -o sqrts2…[11D[30m(B[m[38;2;0;95;215mgcc[38;2;85;85;85m -o sqrts2…[11D[30m(B[m[38;2;0;95;215m [38;2;85;85;85m-o sqrts2…[10D[30m(B[m [38;2;85;85;85m-o sqrts2…[10D[30m(B[m-[38;2;85;85;85mo sqrts2…[9D[30m(B[m[38;2;0;175;255m-[38;2;85;85;85mo sqrts2…[9D[30m(B[m[38;2;0;175;255mo[38;2;85;85;85m sqrts2…[30m(B[m[38;2;0;175;255m [38;2;85;85;85msqrts2…[30m(B[m [38;2;85;85;85msqrts2…[30m(B[ms[38;2;85;85;85mqrts2…[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24mqrts2…[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts2…[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts2…[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms2…[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24m2…[30m(B[m[38;2;0;175;255m[4m2[30m(B[m[K[38;2;0;175;255m[4m [30m(B[m [14D[K
+[38;2;0;95;215mgcc[30m(B[m [38;2;0;175;255m-o[30m(B[m [38;2;0;175;255m[4msqrts2[30m(B[m s[38;2;0;175;255msqrts2[30m(B[m [38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mq[30m(B[m[38;2;0;175;255m[4mr[30m(B[m[38;2;0;175;255m[4mt[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4mc[30m(B[m
+[30m(B[m]0;gcc  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K.[38;2;0;95;215m.[30m(B[m[38;2;85;85;85m/sqrts[30m(B[m[38;2;0;95;215m/[38;2;85;85;85msqrts[30m(B[m[38;2;0;95;215ms[38;2;85;85;85mqrts[30m(B[m[31m[1m./s(B[m[38;2;85;85;85mqrts[30m(B[m[31m[1mq(B[m[38;2;85;85;85mrts[30m(B[m[31m[1mr(B[m[38;2;85;85;85mts[30m(B[m[31m[1mt(B[m[38;2;85;85;85ms[30m(B[m[31m[1ms(B[m[38;2;0;95;215m./sqrts[30m(B[m[38;2;0;95;215m2[30m(B[m
+[30m(B[m]0;./sqrts2  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn	sqrt(n)
+----------------
+0	0.000000
+1	1.000000
+2	1.414214
+3	1.732051
+4	2.000000
+5	2.236068
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ks[31m[1ms(B[m[38;2;85;85;85mubl sqrts.c[11D[30m(B[m[31m[1mu(B[m[38;2;85;85;85mbl sqrts.c[10D[30m(B[m[38;2;0;95;215msu[38;2;85;85;85mbl sqrts.c[10D[30m(B[m[38;2;0;95;215mb[38;2;85;85;85ml sqrts.c[9D[30m(B[m[31m[1msub(B[m[38;2;85;85;85ml sqrts.c[9D[30m(B[m[31m[1ml(B[m[38;2;85;85;85m sqrts.c[30m(B[m[38;2;0;95;215msubl[38;2;85;85;85m sqrts.c[30m(B[m[38;2;0;95;215m [38;2;85;85;85msqrts.c[30m(B[m [38;2;85;85;85msqrts.c[30m(B[ms[38;2;85;85;85mqrts.c[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24mqrts.c[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts.c[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts.c[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms.c[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24m.c[30m(B[m[38;2;0;175;255m[4m.[38;2;85;85;85m[24mc[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[38;2;85;85;85mcm[30m(B[m[38;2;0;175;255m[4mc[38;2;85;85;85m[24mm[30m(B[m[13D[K
+[38;2;0;95;215msubl[30m(B[m [38;2;0;175;255m[4msqrts.scm [30m(B[m[10D[38;2;0;175;255msqrts.scm[30m(B[m 
+[30m(B[m]0;subl  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ke[31m[1me(B[m[38;2;85;85;85mxit[30m(B[m[31m[1mx(B[m[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mex[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mi[38;2;85;85;85mt[30m(B[m[31m[1mexi(B[m[38;2;85;85;85mt[30m(B[m[31m[1mt(B[m[38;2;0;95;215mexit[30m(B[m
+[30m(B[m]0;exit  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m
+[30m(B[m
+Script done on Mon Sep 12 11:43:56 2016
+Script started on Mon Sep 12 20:20:49 2016
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mWelcome to fish, the friendly interactive shell
+Type [32mhelp[30m(B[m for instructions on how to use fish
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ks[31m[1ms(B[m[38;2;85;85;85msh ajlee@130…[13D[30m(B[m[31m[1mu(B[m[K[38;2;0;95;215msu[30m(B[m[38;2;85;85;85mdo dd bs=1m…[12D[30m(B[m[38;2;0;95;215mb[30m(B[m[K[31m[1msub(B[m[38;2;85;85;85ml sqrts.sc…[11D[30m(B[m[31m[1ml(B[m[38;2;85;85;85m sqrts.sc…[10D[30m(B[m[38;2;0;95;215msubl[38;2;85;85;85m sqrts.sc…[10D[30m(B[m[38;2;0;95;215m [38;2;85;85;85msqrts.sc…[9D[30m(B[m [38;2;85;85;85msqrts.sc…[9D[30m(B[ms[38;2;85;85;85mqrts.sc…[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24mqrts.sc…[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts.sc…[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts.sc…[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms.sc…[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24m.sc…[30m(B[m[38;2;0;175;255m[4m.[38;2;85;85;85m[24msc…[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24mc…[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[K[38;2;0;175;255msqrts.ss[30m(B[m[K[38;2;0;175;255m[4msqrts.s[30m(B[m[38;2;0;175;255m[4mc[30m(B[m[38;2;0;175;255m[4mm[30m(B[m
+[30m(B[m]0;subl  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Km[31m[1mm(B[m[38;2;85;85;85mkdir homebre…[13D[30m(B[m[31m[1mz(B[m[K[38;2;85;85;85mscheme[30m(B[m[31m[1mscheme (B[m[9D[38;2;0;95;215mmzscheme[30m(B[m 
+[30m(B[m]0;mzscheme  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mWelcome to Racket v6.6.
+> exit    (exit)
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kr[31m[1mr(B[m[38;2;85;85;85macket -v[30m(B[m[31m[1ma(B[m[38;2;85;85;85mcket -v[30m(B[m[31m[1mc(B[m[38;2;85;85;85mket -v[30m(B[m[31m[1mk(B[m[38;2;85;85;85met -v[30m(B[m[31m[1me(B[m[38;2;85;85;85mt -v[30m(B[m[31m[1mt(B[m[38;2;85;85;85m -v[30m(B[m[38;2;0;95;215mracket[38;2;85;85;85m -v[30m(B[m[38;2;0;95;215m [38;2;85;85;85m-v[30m(B[m [38;2;85;85;85m-v[30m(B[m-[38;2;85;85;85mv[30m(B[m[38;2;0;175;255m-[38;2;85;85;85mv[30m(B[m[38;2;0;175;255mr[30m(B[m[38;2;0;175;255m [30m(B[m s[38;2;0;175;255m[4ms[30m(B[m[38;2;85;85;85mqr…[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mr…[30m(B[m[38;2;0;175;255m[4mr[30m(B[m[K[38;2;0;175;255m[4mt[30m(B[m[14D[K
+[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mm[30m(B[m[38;2;0;175;255msqrts.sm[30m(B[m[38;2;0;175;255ms[30m(B[m[K[K[38;2;0;175;255m[4msqrts.s[30m(B[m[38;2;0;175;255m[4mc[30m(B[m[38;2;0;175;255m[4mm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m(sqrt n)
+----------
+0
+1
+1.4142135623730951
+1.7320508075688772
+2
+2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m(sqrt n)
+----------
+0
+1
+1.4142135623730951
+1.7320508075688772
+2
+2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn ---------- (sqrt n)
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 0
+  arguments...: [none]
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m(n ---------- sqrt n)
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 0
+  arguments...: [none]
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn ---------- sqrt of n
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 0
+  arguments...: [none]
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 0
+  arguments...: [none]
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 0
+  arguments...: [none]
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+0
+1
+1.4142135623730951
+1.7320508075688772
+2
+2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 0
+  arguments...: [none]
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+application: not a procedure;
+ expected a procedure that can be applied to arguments
+  given: 'n
+  arguments...: [none]
+  context...:
+   /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/sqrts.scm:4:2: print-sqrts
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+00
+11
+21.4142135623730951
+31.7320508075688772
+42
+52.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+racket -r sqrts.scm[38;2;0;95;215mracket[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt of n
+0			0
+1			1
+2			1.4142135623730951
+3			1.7320508075688772
+4			2
+5			2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ks[31m[1ms(B[m[38;2;85;85;85mubl sqrts.scm[13D[30m(B[m[31m[1mu(B[m[38;2;85;85;85mbl sqrts.scm[12D[30m(B[m[38;2;0;95;215msu[38;2;85;85;85mbl sqrts.scm[12D[30m(B[m[38;2;0;95;215mb[38;2;85;85;85ml sqrts.scm[11D[30m(B[m[31m[1msub(B[m[38;2;85;85;85ml sqrts.scm[11D[30m(B[m[31m[1ml(B[m[38;2;85;85;85m sqrts.scm[10D[30m(B[m[38;2;0;95;215msubl[38;2;85;85;85m sqrts.scm[10D[30m(B[m[38;2;0;95;215m [38;2;85;85;85msqrts.scm[9D[30m(B[m [38;2;85;85;85msqrts.scm[9D[30m(B[ms[38;2;85;85;85mqrts.scm[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24mqrts.scm[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts.scm[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts.scm[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms.scm[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24m.scm[30m(B[m[38;2;0;175;255m[4m.[38;2;85;85;85m[24mscm[30m(B[m[38;2;0;175;255m[4mJ[30m(B[m[K[38;2;85;85;85ma…[30m(B[m[12D[K
+[38;2;0;95;215msubl[30m(B[m [38;2;0;175;255m[4mSqrts.java [30m(B[m[11D[38;2;0;175;255mSqrts.java[30m(B[m 
+[30m(B[m]0;subl  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+subl Sqrts.java [38;2;0;95;215msubl[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m [38;2;0;95;215mrack[30m(B[me[38;2;0;175;255mt -r sqrts[30m(B[m.scm[15D[38;2;0;95;215met[30m(B[m [38;2;0;175;255m-r[30m(B[m [38;2;0;175;255m[4msqrts.scm[30m(B[m
+[30m(B[m]0;racket  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt(n)
+0			0
+1			1
+2			1.4142135623730951
+3			1.7320508075688772
+4			2
+5			2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kj[31m[1mj(B[m[38;2;85;85;85mava Sqrts[9D[30m(B[m[31m[1ma(B[m[38;2;85;85;85mva Sqrts[30m(B[m[31m[1mv(B[m[38;2;85;85;85ma Sqrts[30m(B[m[31m[1ma(B[m[38;2;85;85;85m Sqrts[30m(B[m[38;2;0;95;215mjava[38;2;85;85;85m Sqrts[30m(B[m[38;2;0;95;215mc[30m(B[m[K[38;2;85;85;85m Sqrts.j…[9D[30m(B[m[38;2;0;95;215m [38;2;85;85;85mSqrts.j…[30m(B[m [38;2;85;85;85mSqrts.j…[30m(B[mS[38;2;85;85;85mqrts.j…[30m(B[m[38;2;0;175;255m[4mS[38;2;85;85;85m[24mqrts.j…[30m(B[m[K
+[38;2;0;95;215mjavac[30m(B[m [38;2;0;175;255m[4mSqrts.java [30m(B[m[11D[38;2;0;175;255mSqrts.java[30m(B[m 
+[30m(B[m]0;javac  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kj[31m[1mj(B[m[38;2;85;85;85mavac Sqrts.j…[13D[30m(B[m[31m[1ma(B[m[38;2;85;85;85mvac Sqrts.j…[12D[30m(B[m[31m[1mv(B[m[38;2;85;85;85mac Sqrts.j…[11D[30m(B[m[31m[1ma(B[m[38;2;85;85;85mc Sqrts.j…[10D[30m(B[m[38;2;0;95;215mjava[38;2;85;85;85mc Sqrts.j…[10D[30m(B[m[38;2;0;95;215m [30m(B[m[K [38;2;85;85;85mSqrts[30m(B[mS[38;2;85;85;85mqrts[30m(B[m[38;2;0;175;255m[4mS[38;2;85;85;85m[24mqrts[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms[30m(B[m[38;2;0;175;255m[4ms[30m(B[m
+[30m(B[m]0;java  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt(n)
+0          0.0
+1          1.0
+2          1.4142135623730951
+3          1.7320508075688772
+4          2.0
+5          2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kjava Sqrts[10D[38;2;0;95;215mjava[30m(B[m [38;2;0;175;255m[4mSqrts[30m(B[m[10D[K
+[38;2;0;95;215mjava[30m(B[mc[38;2;0;175;255m[4m Sqrts.java [30m(B[m[13D[38;2;0;95;215mc[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m 
+[30m(B[m]0;javac  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+javac Sqrts.java [38;2;0;95;215mjavac[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m [A[22C[38;2;0;95;215mjava [30m(B[mS[38;2;0;175;255mqrts[30m(B[m
+[K[A[49C [38;2;0;175;255m[4mSqrts[30m(B[m
+[30m(B[m]0;java  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt(n)
+0				0.0
+1				1.0
+2				1.4142135623730951
+3				1.7320508075688772
+4				2.0
+5				2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kjava Sqrts[10D[38;2;0;95;215mjava[30m(B[m [38;2;0;175;255m[4mSqrts[30m(B[m[10D[K
+[38;2;0;95;215mjava[30m(B[mc[38;2;0;175;255m[4m Sqrts.java [30m(B[m[13D[38;2;0;95;215mc[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m 
+[30m(B[m]0;javac  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+javac Sqrts.java [38;2;0;95;215mjavac[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m [A[22C[38;2;0;95;215mjava [30m(B[mS[38;2;0;175;255mqrts[30m(B[m
+[K[A[49C [38;2;0;175;255m[4mSqrts[30m(B[m
+[30m(B[m]0;java  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt(n)
+0			0.0
+1			1.0
+2			1.4142135623730951
+3			1.7320508075688772
+4			2.0
+5			2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kjava Sqrts[10D[38;2;0;95;215mjava[30m(B[m [38;2;0;175;255m[4mSqrts[30m(B[m[10D[K
+[38;2;0;95;215mjava[30m(B[mc[38;2;0;175;255m[4m Sqrts.java [30m(B[m[13D[38;2;0;95;215mc[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m 
+[30m(B[m]0;javac  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [K
+javac Sqrts.java [38;2;0;95;215mjavac[30m(B[m [38;2;0;175;255mSqrts.java[30m(B[m [A[22C[38;2;0;95;215mjava [30m(B[mS[38;2;0;175;255mqrts[30m(B[m
+[K[A[49C [38;2;0;175;255m[4mSqrts[30m(B[m
+[30m(B[m]0;java  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mn --------------- sqrt(n)
+0		   0.0
+1		   1.0
+2		   1.4142135623730951
+3		   1.7320508075688772
+4		   2.0
+5		   2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Ks[31m[1ms(B[m[38;2;85;85;85mubl Sqrts.ja…[13D[30m(B[m[31m[1mu(B[m[38;2;85;85;85mbl Sqrts.ja…[12D[30m(B[m[38;2;0;95;215msu[38;2;85;85;85mbl Sqrts.ja…[12D[30m(B[m[38;2;0;95;215mb[38;2;85;85;85ml Sqrts.ja…[11D[30m(B[m[31m[1msub(B[m[38;2;85;85;85ml Sqrts.ja…[11D[30m(B[m[31m[1m (B[m[K [K[31m[1ml(B[m[38;2;0;95;215msubl[30m(B[m[38;2;85;85;85m Sqrts.ja…[10D[30m(B[m[38;2;0;95;215m [38;2;85;85;85mSqrts.ja…[9D[30m(B[m [38;2;85;85;85mSqrts.ja…[9D[30m(B[mS[38;2;85;85;85mqrts.ja…[30m(B[m[38;2;0;175;255m[4mS[38;2;85;85;85m[24mqrts.ja…[30m(B[m[38;2;0;175;255m[4mq[38;2;85;85;85m[24mrts.ja…[30m(B[m[38;2;0;175;255m[4mr[38;2;85;85;85m[24mts.ja…[30m(B[m[38;2;0;175;255m[4mt[38;2;85;85;85m[24ms.ja…[30m(B[m[38;2;0;175;255m[4ms[38;2;85;85;85m[24m.ja…[30m(B[m[38;2;0;175;255m[4m.[38;2;85;85;85m[24mja…[30m(B[m[38;2;0;175;255m[4msqrts.p[30m(B[m[K[38;2;0;175;255msqrts.p[30m(B[m[38;2;0;175;255my[30m(B[m
+[30m(B[m]0;subl  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kp[31m[1mp(B[m[38;2;85;85;85mwd[30m(B[m[31m[1my(B[m[K[38;2;85;85;85mthon3 -m py…[12D[30m(B[m[31m[1mt(B[m[38;2;85;85;85mhon3 -m py…[11D[30m(B[m[31m[1mh(B[m[38;2;85;85;85mon3 -m py…[10D[30m(B[m[31m[1mo(B[m[38;2;85;85;85mn3 -m py…[9D[30m(B[m[31m[1mn(B[m[38;2;85;85;85m3 -m py…[30m(B[m[38;2;0;95;215mpython[38;2;85;85;85m3 -m py…[30m(B[m[38;2;0;95;215m3[38;2;85;85;85m -m py…[30m(B[m[38;2;0;95;215m [38;2;85;85;85m-m py…[30m(B[m [38;2;85;85;85m-m py…[30m(B[m-[38;2;85;85;85mm py…[30m(B[m[38;2;0;175;255m-[38;2;85;85;85mm py…[30m(B[m[38;2;0;175;255mm[38;2;85;85;85m py…[30m(B[m[38;2;0;175;255m [38;2;85;85;85mpy…[30m(B[m [38;2;85;85;85mpy…[30m(B[mp[38;2;85;85;85my…[30m(B[m[38;2;0;175;255mp[38;2;85;85;85my…[30m(B[m[38;2;0;175;255my[30m(B[m[K[38;2;0;175;255m_[30m(B[m[14D[K
+[38;2;0;95;215mpython3[30m(B[m [38;2;0;175;255m-m[30m(B[m [38;2;0;175;255mpy_c[30m(B[m[38;2;0;175;255mo[30m(B[m[38;2;0;175;255mm[30m(B[m[38;2;0;175;255mp[30m(B[m[38;2;0;175;255mi[30m(B[m[38;2;0;175;255ml[30m(B[m[38;2;0;175;255me[30m(B[m[38;2;0;175;255m [30m(B[m s[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mq[30m(B[m[38;2;0;175;255m[4mr[30m(B[m[38;2;0;175;255m[4mt[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4mp[30m(B[m[38;2;0;175;255m[4my[30m(B[m
+[30m(B[m]0;python3  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kl[31m[1ml(B[m[38;2;85;85;85ms[30m(B[m[31m[1ms(B[m[38;2;0;95;215mls[30m(B[m
+[30m(B[m]0;ls  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mSqrts.class hw2D.out    sqrts.cpp   [31msqrts2[39;49m[0m
+Sqrts.java  [31msqrts[39;49m[0m       sqrts.py
+[34m__pycache__[39;49m[0m sqrts.c     sqrts.scm
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kc[31m[1mc(B[m[38;2;85;85;85md ../../../[11D[30m(B[m[31m[1md(B[m[38;2;85;85;85m ../../../[10D[30m(B[m[38;2;0;95;215mcd[38;2;85;85;85m ../../../[10D[30m(B[m[38;2;0;95;215m [38;2;85;85;85m../../../[9D[30m(B[m [38;2;85;85;85m../../../[9D[30m(B[m_[K[38;2;0;175;255m[4m_[30m(B[m[38;2;85;85;85m_pycache_…[10D[30m(B[m[38;2;0;175;255m[4m_[38;2;85;85;85m[24mpycache_…[9D[30m(B[m[38;2;0;175;255m[4mp[38;2;85;85;85m[24mycache_…[30m(B[m[38;2;0;175;255m[4my[38;2;85;85;85m[24mcache_…[30m(B[m[38;2;0;175;255m[4mc[38;2;85;85;85m[24mache_…[30m(B[m[38;2;0;175;255m[4ma[38;2;85;85;85m[24mche_…[30m(B[m[38;2;0;175;255m[4mc[38;2;85;85;85m[24mhe_…[30m(B[m[38;2;0;175;255m[4mh[38;2;85;85;85m[24me_…[30m(B[m[38;2;0;175;255m[4me[38;2;85;85;85m[24m_…[30m(B[m[38;2;0;175;255m[4m_[30m(B[m[K[38;2;0;175;255m[4m_[30m(B[m
+[30m(B[m]0;cd  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [Kl[31m[1ml(B[m[38;2;85;85;85ms[30m(B[m[31m[1ms(B[m[38;2;0;95;215mls[30m(B[m
+[30m(B[m]0;ls  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[msqrts.cpython-34.pyc
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [Kp[31m[1mp(B[m[38;2;85;85;85mwd[30m(B[m[31m[1my(B[m[K[38;2;85;85;85mt…[30m(B[m[31m[1mt(B[m[K[31m[1mh(B[m[K
+[31m[1mpytho(B[m[31m[1mn(B[m[38;2;0;95;215mpython[30m(B[m[38;2;0;95;215m3[30m(B[m[38;2;0;95;215m [30m(B[m s[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mq[30m(B[m[38;2;0;175;255m[4mrts.cpython-34.pyc [30m(B[m[21D[38;2;0;175;255msqrts.cpython-34.pyc[30m(B[m 
+[30m(B[m]0;python3  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[mn --------------- sqrt(n)
+Traceback (most recent call last):
+  File "sqrts.py", line 8, in <module>
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                      [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [K
+python3 sqrts.cpython-34.pyc [38;2;0;95;215mpython3[30m(B[m [38;2;0;175;255msqrts.cpython-34.pyc[30m(B[m [A[20C[38;2;0;95;215mls[30m(B[m
+[K[A[51C[K
+[38;2;0;95;215mpython3 sqrts.cpython-34.pyc [30m(B[m[22D [38;2;0;175;255msqrts.cpython-34.pyc[30m(B[m [K[A[49C
+python3 sqrts.cpython-34.pyc [38;2;0;95;215mpython3[30m(B[m [38;2;0;175;255msqrts.cpython-34.pyc[30m(B[m [A[20C[38;2;0;95;215mls[30m(B[m
+[K[A[51C[K
+[38;2;0;95;215mcd __pycache__[30m(B[m[12D [31m[1m__pycache__(B[m[K[A[49Ce[31m[1me(B[m[38;2;85;85;85mxit[30m(B[m[31m[1mx(B[m[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mex[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mi[38;2;85;85;85mt[30m(B[m[31m[1mexi(B[m[38;2;85;85;85mt[30m(B[m[31m[1mt(B[m[38;2;0;95;215mexit[30m(B[m
+[30m(B[m]0;exit  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m
+[30m(B[m
+Script done on Mon Sep 12 20:56:17 2016
+Script started on Mon Sep 12 20:56:25 2016
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mWelcome to fish, the friendly interactive shell
+Type [32mhelp[30m(B[m for instructions on how to use fish
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kp[31m[1mp(B[m[38;2;85;85;85mython3 -…[9D[30m(B[m[31m[1my(B[m[38;2;85;85;85mthon3 -…[30m(B[m[31m[1mt(B[m[38;2;85;85;85mhon3 -…[30m(B[m[31m[1mh(B[m[38;2;85;85;85mon3 -…[30m(B[m[31m[1mo(B[m[38;2;85;85;85mn3 -…[30m(B[m[31m[1mn(B[m[38;2;85;85;85m3 -…[30m(B[m[38;2;0;95;215mpython[38;2;85;85;85m3 -…[30m(B[m[38;2;0;95;215mg[30m(B[m[K[31m[1mpythong(B[m[31m[1m3(B[m[31m[1m (B[m [K[K[K[38;2;0;95;215mpython[30m(B[m[K[31m[1mpytho(B[m[31m[1m3(B[m[31m[1m (B[m [K[K[31m[1mn(B[m[38;2;0;95;215mpython[30m(B[m[38;2;85;85;85m3 -…[30m(B[m[38;2;0;95;215m3[38;2;85;85;85m -…[30m(B[m[38;2;0;95;215m [38;2;85;85;85m-…[30m(B[m [38;2;85;85;85m-…[30m(B[m-[K[38;2;0;175;255m-[30m(B[m[38;2;0;175;255mm[30m(B[m[10D[K
+[38;2;0;95;215mpython3[30m(B[m [38;2;0;175;255m-m [30m(B[m p[38;2;0;175;255mp[30m(B[m[38;2;0;175;255my[30m(B[m[38;2;0;175;255m_[30m(B[m[38;2;0;175;255mc[30m(B[m[38;2;0;175;255mo[30m(B[m[38;2;0;175;255mm[30m(B[m[38;2;0;175;255mp[30m(B[m[38;2;0;175;255mi[30m(B[m[38;2;0;175;255ml[30m(B[m[38;2;0;175;255me[30m(B[m[38;2;0;175;255m [30m(B[m s[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mq[30m(B[m[38;2;0;175;255m[4mr[30m(B[m[38;2;0;175;255m[4mt[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4mp[30m(B[m[38;2;0;175;255m[4my[30m(B[m
+[30m(B[m]0;python3  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kc[31m[1mc(B[m[38;2;85;85;85md __pyca…[9D[30m(B[m[31m[1md(B[m[38;2;85;85;85m __pyca…[30m(B[m[38;2;0;95;215mcd[38;2;85;85;85m __pyca…[30m(B[m[38;2;0;95;215m [38;2;85;85;85m__pyca…[30m(B[m [38;2;85;85;85m__pyca…[30m(B[m[K
+[38;2;0;95;215mcd[30m(B[m __pycache__/[12D[38;2;0;175;255m[4m__pycache__/[30m(B[m
+[30m(B[m]0;cd  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [K
+p[31m[1mp(B[m[31m[1my(B[m[31m[1mt(B[m[31m[1mh(B[m[31m[1mo(B[m[31m[1mn(B[m[38;2;0;95;215mpython[30m(B[m[38;2;0;95;215mg[30m(B[m[31m[1mpythong(B[m[31m[1m3(B[m[31m[1m (B[m [K[K[K[38;2;0;95;215mpython[30m(B[m[38;2;0;95;215m3[30m(B[m[38;2;0;95;215m [30m(B[m s[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mq[30m(B[m[38;2;0;175;255m[4mrts.cpython-34.pyc [30m(B[m[21D[38;2;0;175;255msqrts.cpython-34.pyc[30m(B[m 
+[30m(B[m]0;python3  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[mn --------------- sqrt(n)
+0 			 0.0
+1 			 1.0
+2 			 1.4142135623730951
+3 			 1.7320508075688772
+4 			 2.0
+5 			 2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [K
+c[31m[1mc(B[m[31m[1md(B[m[38;2;0;95;215mcd[30m(B[m[38;2;0;95;215m [30m(B[m .[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4m.[30m(B[m
+[30m(B[m]0;cd  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kp[31m[1mp(B[m[38;2;85;85;85mython3 -…[9D[30m(B[m[31m[1my(B[m[38;2;85;85;85mthon3 -…[30m(B[m[31m[1mt(B[m[38;2;85;85;85mhon3 -…[30m(B[m[31m[1mh(B[m[38;2;85;85;85mon3 -…[30m(B[m[31m[1mo(B[m[38;2;85;85;85mn3 -…[30m(B[m[31m[1mn(B[m[38;2;85;85;85m3 -…[30m(B[m[38;2;0;95;215mpython[38;2;85;85;85m3 -…[30m(B[m[38;2;0;95;215m3[38;2;85;85;85m -…[30m(B[m[38;2;0;95;215m [38;2;85;85;85m-…[30m(B[m [38;2;85;85;85m-…[30m(B[m[K[38;2;0;95;215m [30m(B[m [38;2;85;85;85m-…[30m(B[m-[K[38;2;0;175;255m-[30m(B[m[38;2;0;175;255mm[30m(B[m[10D[K
+[38;2;0;95;215mpython3[30m(B[m [38;2;0;175;255m-m [30m(B[m p[38;2;0;175;255mp[30m(B[m[38;2;0;175;255my[30m(B[m[38;2;0;175;255m_[30m(B[m[38;2;0;175;255mc[30m(B[m[38;2;0;175;255mo[30m(B[m[38;2;0;175;255mm[30m(B[m[38;2;0;175;255mp[30m(B[m[38;2;0;175;255mi[30m(B[m[38;2;0;175;255ml[30m(B[m[38;2;0;175;255me[30m(B[m[38;2;0;175;255m [30m(B[m s[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mq[30m(B[m[38;2;0;175;255m[4mr[30m(B[m[38;2;0;175;255m[4mt[30m(B[m[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4mp[30m(B[m[38;2;0;175;255m[4my[30m(B[m
+[30m(B[m]0;python3  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kc[31m[1mc(B[m[38;2;85;85;85md ..[30m(B[m[31m[1md(B[m[38;2;85;85;85m ..[30m(B[m[38;2;0;95;215mcd[38;2;85;85;85m ..[30m(B[m[38;2;0;95;215m [38;2;85;85;85m..[30m(B[m [38;2;85;85;85m..[30m(B[m[K[K[31m[1mc(B[m[Kl[31m[1ml(B[m[38;2;85;85;85ms[30m(B[m[31m[1ms(B[m[38;2;0;95;215mls[30m(B[m
+[30m(B[m]0;ls  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[mSqrts.class hw2D.out    sqrts.cpp   [31msqrts2[39;49m[0m
+Sqrts.java  [31msqrts[39;49m[0m       sqrts.py
+[34m__pycache__[39;49m[0m sqrts.c     sqrts.scm
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/hw2[30m(B[m> [Kc[31m[1mc(B[m[38;2;85;85;85md ..[30m(B[m[31m[1md(B[m[38;2;85;85;85m ..[30m(B[m[38;2;0;95;215mcd[38;2;85;85;85m ..[30m(B[m[38;2;0;95;215m [38;2;85;85;85m..[30m(B[m [38;2;85;85;85m..[30m(B[m_[K[38;2;85;85;85m_pyca…[30m(B[m[38;2;0;175;255m[4m_[38;2;85;85;85m[24m_pyca…[30m(B[m[K
+[38;2;0;95;215mcd[30m(B[m [38;2;0;175;255m[4m__pycache__/[30m(B[m
+[30m(B[m]0;cd  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [K
+p[31m[1mp(B[m[31m[1my(B[m[31m[1mt(B[m[31m[1mh(B[m[31m[1mo(B[m[31m[1mn(B[m[38;2;0;95;215mpython[30m(B[m[38;2;0;95;215m3[30m(B[m[38;2;0;95;215m [30m(B[m p[38;2;0;175;255mp[30m(B[m[Ks[38;2;0;175;255m[4ms[30m(B[m[38;2;0;175;255m[4mqrts.cpython-34.pyc [30m(B[m[21D[38;2;0;175;255msqrts.cpython-34.pyc[30m(B[m 
+[30m(B[m]0;python3  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[mn --------------- sqrt(n)
+0 		    0.0
+1 		    1.0
+2 		    1.4142135623730951
+3 		    1.7320508075688772
+4 		    2.0
+5 		    2.23606797749979
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/H/h/__pycache__[30m(B[m> [K
+c[31m[1mc(B[m[31m[1md(B[m[38;2;0;95;215mcd[30m(B[m[38;2;0;95;215m [30m(B[m .[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4m/[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4m.[30m(B[m[38;2;0;175;255m[4m/[30m(B[m
+[30m(B[m]0;cd  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD/hw2/__pycache__[30m(B[m]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/HD[30m(B[m> [Kl[31m[1ml(B[m[38;2;85;85;85ms[30m(B[m[31m[1ms(B[m[38;2;0;95;215mls[30m(B[m
+[30m(B[m]0;ls  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD[30m(B[mREADME [34mhw1[39;49m[0m    [34mhw2[39;49m[0m
+]0;fish  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD[30m(B[m[38;5;245m⏎[0m                                                  [2Kandrewlee@wlan237-091 [32m~/D/S/F/H/HD[30m(B[m> [Ke[31m[1me(B[m[38;2;85;85;85mxit[30m(B[m[31m[1mx(B[m[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mex[38;2;85;85;85mit[30m(B[m[38;2;0;95;215mi[38;2;85;85;85mt[30m(B[m[31m[1mexi(B[m[38;2;85;85;85mt[30m(B[m[31m[1mt(B[m[38;2;0;95;215mexit[30m(B[m
+[30m(B[m]0;exit  /Users/andrewlee/Documents/School/Fall2016/HardwareDesign/HD[30m(B[m
+[30m(B[m
+Script done on Mon Sep 12 20:59:40 2016

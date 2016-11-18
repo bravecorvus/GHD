@@ -1,0 +1,1 @@
+print(str(max(40, 0)))
