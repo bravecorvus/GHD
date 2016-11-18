@@ -1,4 +1,4 @@
-! Simple "hello world" program
+! Simple 'hello world' program
 ! See section 9.8.1.
 
 	_EXIT	= 1		!  1
