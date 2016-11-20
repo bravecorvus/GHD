@@ -48,6 +48,7 @@ start:
 
 .SECT .DATA
 prompt: .ASCII "Enter input: "
+undercore: .ASCII "_"
 endpr:
 size:   .WORD   0       ! length of input
 
